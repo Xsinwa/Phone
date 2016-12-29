@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_7d72b5606145f1d674edadf2e8d8a60da1007f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1fb2ebbab28324239038ee3763a113dcb5a0fd8">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_582b00d9d5eb17d3eaf810fc406ae1805d7a924f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_9263a501fd9198a5b8987bf833aa5a56822bb6aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4375a450270ba9d0a171db91f4aeabefc6ab6a1a">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d127c414e72a914a4fb5e775834af97491629626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\StudioProjects\mPhone\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_fdb421dda99fcb1df26d2b132ff0cff8271a5fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_9a51a08eaa76691ff46123af69a90a0a36273875\classes.dex" />
+    </item>
+
+</items>

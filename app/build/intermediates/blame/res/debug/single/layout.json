@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_call_out.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\item_call_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_calldetail.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\item_calldetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\letter_index_bar.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\letter_index_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newcontact_actionbar.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\newcontact_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\popwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialpad_pop.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\dialpad_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contactinformation_bar.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\contactinformation_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_detail.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\call_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contactinformation.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\activity_contactinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialpad.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\activity_dialpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_phonerecord.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\fragment_phonerecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newcontacts.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\newcontacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_call_in.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\item_call_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mview.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\mview.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\layout\\callrecord_pop.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\layout\\callrecord_pop.xml"
+    }
+]

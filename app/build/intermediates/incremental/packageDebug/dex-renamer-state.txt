@@ -1,0 +1,7 @@
+#Mon Dec 26 19:35:27 CST 2016
+base.0=C\:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_582b00d9d5eb17d3eaf810fc406ae1805d7a924f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d127c414e72a914a4fb5e775834af97491629626\\classes.dex
+base.1=C\:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d127c414e72a914a4fb5e775834af97491629626
+file.0=C\:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_582b00d9d5eb17d3eaf810fc406ae1805d7a924f\\classes.dex

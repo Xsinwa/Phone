@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/CallRecords/CallDetailAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/CallRecords/CallDetails.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/CallRecords/CallRecordAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/CallRecords/CallRecords.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/Contacts/MyPopupWindow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/Contacts/NewContacts.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/DialPadActivity/DialPadPopwindow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/DialPadActivity/mDialpad.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/mphone/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/Hemi/mphone/MyApplication.java" charset="UTF-8" />
+  </component>
+</project>

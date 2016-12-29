@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_more.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\selected_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_dialpad.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\phone_dialpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_contacts.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\phone_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_callmissandall.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_callmissandall.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_allcall_selected.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_allcall_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_search.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_layout.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\circle_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_misscall_selected.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_misscall_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialpad_pop.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_dialpad_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_memory.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\phone_memory.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_checkbox.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\shape_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recordslist_divider.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\recordslist_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialup.xml",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable\\dialup.xml"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialup1.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\dialup1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\memory1.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\memory1.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\facetime.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\facetime.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\more.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\more.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\information.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\information.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\email.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialup2.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\dialup2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialpad2.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\dialpad2.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\memory2.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\memory2.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\incoming_call.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\incoming_call.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\outgoing_call.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\outgoing_call.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\more1.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\more1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dialpad1.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\dialpad1.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\delete.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\delete.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\photo.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\photo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\message.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\phone.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\contacts2.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\contacts2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\contacts1.9.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\contacts1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\searchcontacts.png",
+        "source": "C:\\Users\\xiexinhua\\StudioProjects\\mPhone\\app\\src\\main\\res\\drawable-mdpi\\searchcontacts.png"
+    }
+]
