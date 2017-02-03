@@ -5,33 +5,40 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="11951706979450"
+    timestamp="30811735062769"
     token="-825574502497687709"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="3670" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2364" />
+        duration="0" />
     <task
         name="verifier"
-        duration="471" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="11951706979450"
+        timestamp="30521507443027"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="30811735062769"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

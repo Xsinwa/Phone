@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a1fb2ebbab28324239038ee3763a113dcb5a0fd8">
+        sha1="81875155d578ecefa1196ebeb003818da2530236">
         <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_582b00d9d5eb17d3eaf810fc406ae1805d7a924f\classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4375a450270ba9d0a171db91f4aeabefc6ab6a1a">
+        sha1="c2cc001b1f213bdd7062edf7092781439beba9bc">
         <dex dex="C:\Users\xiexinhua\StudioProjects\mPhone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d127c414e72a914a4fb5e775834af97491629626\classes.dex" />
     </item>
     <item

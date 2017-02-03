@@ -91,7 +91,7 @@ public class CallRecords extends Fragment implements OnClickListener {
 		CallRecordsListView.setAdapter(callAdapter);
 		callAdapter.notifyDataSetChanged();
 		CallRecordsListView.invalidate();
-		
+
 	}
 	
 
@@ -99,7 +99,7 @@ public class CallRecords extends Fragment implements OnClickListener {
 	private void getCallRecords(Boolean flag) {
 		Cursor cursor = context.getContentResolver().query(
 				CallLog.Calls.CONTENT_URI, null, null, null, null);
-		int i = 0;
+
 		if (cursor.moveToLast()) {
 			String prenumber = cursor.getString(cursor.getColumnIndex(Calls.NUMBER));
 			int type = TypeDecision(Integer.parseInt(cursor.getString(cursor.getColumnIndex(Calls.TYPE))));
@@ -242,8 +242,8 @@ public class CallRecords extends Fragment implements OnClickListener {
 	@Override
 	public void onResume() {
 		super.onResume();
-		
-//		updateCallRecords();
+
+		updateCallRecords();
 	}
 	
 }

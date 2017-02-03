@@ -141,6 +141,12 @@ public class PhoneContacts extends Fragment implements OnClickListener {
 			break;
 		}
 	}
-	
 
+	@Override
+	public void onResume() {
+		super.onResume();
+
+		contactAdapter.notifyDataSetChanged();
+		contactlist.invalidate();
+	}
 }
